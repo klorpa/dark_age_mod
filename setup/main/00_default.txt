@@ -2411,7 +2411,7 @@ country = {
 		
 		ERE = {
 		 family = 0
-			government = imperium
+			government = roman_imperium
 			primary_culture = roman
 			religion = chalcedonian
 			diplomatic_stance=trading_stance
@@ -2637,11 +2637,16 @@ country = {
 		}	
 		PER = {
 			family = 3
-			government = aristocratic_monarchy
-			primary_culture = median
+			government = imperium
+			primary_culture = pasargadi
 			religion = zoroaster
 			capital = 912
-			
+			poptype_rights = { 
+				{
+					culture = median 
+					type = citizen
+				}
+			}
 			own_control_core = {
 				3435 6727 7222 7223  #New
 				3441 6728 6729 3445 3448 6656 3447 3446 3450 3454 #parthia
