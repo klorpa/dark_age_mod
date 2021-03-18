@@ -2441,7 +2441,7 @@ country = {
 		
 			own_control_core = 	{
 							###Thrace/Constantinople###
-				#Constantinople
+				#Europa
 				1453 #Constantiople
 				341  #Philia
 				345  #Selymbria
@@ -2464,6 +2464,9 @@ country = {
 				343 4314 4154 489 495 482 481 480 #Haemimontus
 				7898 7904 7901 7899 7896 7902
 				828 829 908 #Dara
+							###Greece/Cyprus###
+				#Cyprus
+				330 331 332 333 334 335 336 338 6431 6433 7990 7991 #Cyprus
 				####This really needs to be looked at total mess no wonder it did not work at first.###
 				4247 4248 4249 #Parts of Moesia Orientalis
 				4520 4519 4518 4517 4516 4515 4514 4512 4255 4254 4250 #Scythia
@@ -2552,7 +2555,7 @@ country = {
 				4190 4193
 				845 1761 1757 1758 1759 1760 1762 1698
 				857 870
-				7668 7689 7690 7688 7691 6431 6433 6420
+				7668 7689 7690 7688 7691 6420
 				7799 7802 7798 7803 7760 7765 #Extra
 				7889 7892 7891 7903
 				#
@@ -2581,7 +2584,6 @@ country = {
 				663 664 665 #samaria_region
 				660 662 661 690 693 #philistia_region
 				817 818 819 820 821 837 844 848 849 854 853 879 #osroene_region
-				334 338 333 336 332 335 331 330 #Cyprus
 				157 158 163 1852 1854 1859 1860 1861 1865 1886 1898 1929 #cappadocia_melitene_region
 				155 172 1802 1803 1893 1902 1976 1979 1982 1983 1994 1999 #cappadocia_cataonia_region
 				173 205 1813 1888 1900 1938 1940 1951 1954 1978 #cappadocia_garsauritis_region
