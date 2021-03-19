@@ -3,11 +3,11 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="athenian"
+	culture="greek"
 	holy_site="omen_hephaestus"
 	port_building=1
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="chalcedonian"
 	terrain="hills"
 	trade_goods="salt"
 	citizen=
@@ -21,12 +21,6 @@
 	slaves=
 	{
 		amount=1
-	}
-	tribesmen=
-	{
-		amount=3
-		culture="odrysi"
-		religion="shamanism"
 	}
 }
 #Imbros
@@ -54,7 +48,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 }
@@ -87,7 +81,7 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="roman_pantheon"
 	terrain="forest"
@@ -115,7 +109,7 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="roman_pantheon"
 	terrain="farmland"
@@ -147,31 +141,15 @@
 	culture="thracian"
 	province_rank="settlement"
 	religion="roman_pantheon"
-	terrain="forest"
+	terrain="farmland"
 	trade_goods="cloth"
 	freemen=
 	{
-		amount=2
-	}
-	freemen=
-	{
-		amount=1
-		culture="bithynian"
+		amount=10
 	}
 	slaves=
 	{
-		amount=1
-	}
-	tribesmen=
-	{
-		amount=1
-		culture="odrysi"
-		religion="shamanism"
-	}
-	tribesmen=
-	{
-		amount=2
-		culture="bithynian"
+		amount=20
 	}
 }
 #Perinthos
@@ -252,7 +230,7 @@
 	tribesmen=
 	{
 		amount=5
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 }
@@ -294,39 +272,24 @@
 {
 	barbarian_power=0
 	civilization_value=37
-	culture="thracian"
+	culture="greek"
 	port_building=1
-	province_rank="city"
+	province_rank="settlement"
 	religion="roman_pantheon"
 	terrain="plains"
 	trade_goods="salt"
-	nobles=
-	{
-		amount=4
-		culture="macedonian"
-	}
+	
 	citizen=
 	{
-		amount=3
-		culture="macedonian"
-	}
-	citizen=
-	{
-		amount=3
+		amount=1
 	}
 	freemen=
 	{
-		amount=24
+		amount=2
 	}
 	slaves=
 	{
-		amount=17
-	}
-	tribesmen=
-	{
-		amount=1
-		culture="odrysi"
-		religion="shamanism"
+		amount=4
 	}
 }
 #Ornoi
@@ -334,7 +297,7 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="roman_pantheon"
 	terrain="farmland"
@@ -362,7 +325,7 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="roman_pantheon"
 	terrain="farmland"
@@ -415,7 +378,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 }
@@ -445,7 +408,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 }
@@ -454,7 +417,7 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="roman_pantheon"
 	terrain="forest"
@@ -474,7 +437,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 }
@@ -509,7 +472,7 @@
 	tribesmen=
 	{
 		amount=5
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 }
@@ -518,7 +481,7 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="odrysi"
+	culture="greek"
 	province_rank="city"
 	religion="shamanism"
 	terrain="hills"
@@ -561,13 +524,13 @@
 	slaves=
 	{
 		amount=1
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 }
@@ -634,7 +597,7 @@
 	freemen=
 	{
 		amount=1
-		culture="odrysi"
+		culture="greek"
 	}
 	tribesmen=
 	{
@@ -674,17 +637,17 @@
 	freemen=
 	{
 		amount=1
-		culture="odrysi"
+		culture="greek"
 	}
 	slaves=
 	{
 		amount=1
-		culture="odrysi"
+		culture="greek"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 	tribesmen=
@@ -715,13 +678,13 @@
 	slaves=
 	{
 		amount=2
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 }
@@ -746,13 +709,13 @@
 	slaves=
 	{
 		amount=1
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 }
@@ -761,7 +724,7 @@
 {
 	barbarian_power=0
 	civilization_value=22
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="farmland"
@@ -784,7 +747,7 @@
 {
 	barbarian_power=0
 	civilization_value=22
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="farmland"
@@ -807,7 +770,7 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="hills"
@@ -830,7 +793,7 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="roman_pantheon"
 	terrain="forest"
@@ -858,7 +821,7 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="forest"
@@ -881,7 +844,7 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="forest"
@@ -908,7 +871,7 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="forest"
@@ -931,7 +894,7 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="forest"
@@ -958,7 +921,7 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="hills"
@@ -985,7 +948,7 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="forest"
@@ -1004,7 +967,7 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="forest"
@@ -1035,7 +998,7 @@
 				
 	province_rank="city"
 	nobles = {
-		amount=4
+		amount=8
 	}
 	nobles = {
   
@@ -1049,13 +1012,13 @@
 		amount=15
 	}
 	citizen={
-		amount=20
+		amount=23
 	}
 	freemen={
 		amount=16
 	}
 	slaves={
-		amount=10
+		amount=20
 	}
 	slaves={
 		culture="thracian"
@@ -1077,7 +1040,7 @@
 		religion="roman_pantheon"
 		amount=5
 	}
-	#holy_site = omen_constantine
+	#holy_site = omen_constantine# They kind of fucked up holy sites. You can no longer move slaves in to citys with holy_sites in them. Miss me with that lol.
 }
 #Samothrake
 1774=
@@ -1104,7 +1067,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="odrysi"
+		culture="greek"
 		religion="shamanism"
 	}
 }
@@ -1113,7 +1076,7 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="hills"
@@ -1136,7 +1099,7 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="roman_pantheon"
 	terrain="forest"
@@ -1816,7 +1779,7 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="hills"
@@ -1835,7 +1798,7 @@
 {
 	barbarian_power=0
 	civilization_value=22
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="farmland"
@@ -1850,7 +1813,7 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="odrysi"
+	culture="greek"
 	holy_site="omen_sabazios"
 	province_rank="settlement"
 	religion="shamanism"
@@ -1866,7 +1829,7 @@
 {
 	barbarian_power=0
 	civilization_value=22
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="farmland"
@@ -1881,7 +1844,7 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="forest"
@@ -1904,7 +1867,7 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="shamanism"
 	terrain="hills"
@@ -1919,7 +1882,7 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="odrysi"
+	culture="greek"
 	province_rank="settlement"
 	religion="roman_pantheon"
 	terrain="forest"

@@ -12,7 +12,7 @@
  pomeranian:0 "Pomeranian"
  frisian:0 "Frisian"
  greek:0 "Greek"
- macedonian:0 "Greek"
+ #macedonian:0 "Greek" I can't make up my mind on how I want to do Greek Cutltue in this.
  hispania:0 "Romano-Hispanic"
  gaul:0 "Romano-Gaul"
  brittania:0 "Romano-British"
@@ -40,7 +40,7 @@
  gothonic:0 "Gothic"
  greco_pontic:0 "Pontic"
  pontic:0 "Old-Pontic"
- etruscan:0 "Corsican"
+ #etruscan:0 "Corsican" No longer needed as They added Corsican
  ARMY_NAME_slavic:0 "$NUM$$ORDER$ Warband"
  NAVY_NAME_slavic:0 "$NUM$$ORDER$ Navy"
  COHORT_NAME_slavic:0 "$HOME$'s $NUM$$ORDER$ Warband"
