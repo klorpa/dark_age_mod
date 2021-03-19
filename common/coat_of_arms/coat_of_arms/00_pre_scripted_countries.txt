@@ -770,7 +770,7 @@ ERE = {
 	color2 = "roman_gold"
 
 	colored_emblem = {
-		texture = "ce_chi_rho.dds"
+		texture = "Byzantium2.png"
 		color1 = "roman_gold"
 	}
 }

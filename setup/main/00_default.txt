@@ -271,11 +271,18 @@ provinces = {
 	417 = {
 		fortress_building = 1
 	}
+	345 = {
+		port_building = 1
+	}
+	354 = {
+		port_building = 1
+	}
 	1453 = {
 		fortress_building = 2
 		commerce_building = 3
 		town_hall_building = 1
-		aqueduct_building = 2
+		aqueduct_building = 6
+		port_building = 2
 		modifier = { modifier = constantinople always = yes }
 	}
 	912 = {
@@ -2426,7 +2433,7 @@ country = {
 			}
 			poptype_rights = { 
 				{
-					culture = macedonian ##I don't know if I should use Greek or Greek yet
+					culture = greek ##I don't know if I should use Macedonian or Greek yet
 					type = citizen
 				}
 			}
@@ -2467,6 +2474,13 @@ country = {
 							###Greece/Cyprus###
 				#Cyprus
 				330 331 332 333 334 335 336 338 6431 6433 7990 7991 #Cyprus
+				#Syria
+				7985 # Syria 2.0
+				787 789 790 791 793 797 798 813 814 847 851 #syria_region
+				8011 772 761 762 770 774 776 777 778 781 782 799 816 #apamene_region
+				784 788 786 785 771 769 767 #north_phoenicia
+				748 749 752 747 741 746 743 744 745 742 740#south_phoenicia
+				
 				####This really needs to be looked at total mess no wonder it did not work at first.###
 				4247 4248 4249 #Parts of Moesia Orientalis
 				4520 4519 4518 4517 4516 4515 4514 4512 4255 4254 4250 #Scythia
@@ -2601,7 +2615,6 @@ country = {
 				683 684 685 686 687 688 689 691 692 711 713 715 #judea_region
 				681 710 712 714 716 717 720 731
 				671 676 678 679 680 682 719
-				747
 				779 780
 				766
 				836 838 839 1862 1863 1864 1867 1868 1869 1895
@@ -2626,11 +2639,7 @@ country = {
 				1780 1872 1882 1883 1887 1889 1890 1892 1894 1896 1897 #cilicia_trachea_region
 				795 796 1873 1874 1875 1876 1877 1878 1879 1880 1881 1884 #cilicia_pedias_region
 				792 794 805 808 811 812 852 1871 #syria_cyrrestice_region
-				787 789 790 791 793 797 798 813 814 847 851 #syria_region
-				#south_phoenicia
-				#north_phoenicia
-				738 750 751 752 753 757 758 759 760 763 764 765 #syria_coele_region
-				772 761 762 770 774 776 777 778 781 782 799 816 #apamene_region
+				738 750 751 753 757 758 759 760 763 764 765 #syria_coele_region
 				754 755 756 775 800 801 802 803 804 806 815 850 #palmyra_region
 				673 675 718 721 722 723 732 733 734 735 736 737 739 #decapolis_region
 				### provinces added for 2.0 update ###
