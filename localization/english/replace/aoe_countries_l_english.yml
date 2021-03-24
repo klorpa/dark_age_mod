@@ -649,6 +649,8 @@
  CMB_ADJ:0 "Jute"                   
  BUR:0 "Burgundia"
  BUR_ADJ:0 "Burgundian"
+ DEN:0 "Denmark"
+ Den_ADJ:0 "Danish"
  
  #EAST
  ANS:0 "Antes"

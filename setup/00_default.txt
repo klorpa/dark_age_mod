@@ -3418,7 +3418,7 @@ country = {
 			government = tribal_chiefdom
 			primary_culture = lombards
 			religion = germanic_religion
-			centralization=50
+			centralization=-50
 
 			capital = 3814
 
@@ -3899,7 +3899,19 @@ country = {
 				3865 3868
 			}
 		}
-	
+#Denmark
+DEN= {
+			government = tribal_chiefdom
+			primary_culture = herulianf
+			religion = germanic_religion
+			centralization=75
+			
+			capital = 3887
+			
+			own_control_core = {
+			3887 3885 3886 3884 3881 3883 3882 6004 6001 6000 6003
+			}
+		}
 #Frisia	
 		SXS = {
 			government = tribal_chiefdom
