@@ -331,18 +331,18 @@ track53 = {
 	mood = yes
 	can_be_interrupted = yes
 }
-track54 = {
-	music = "file:/music/Rome_Total_War/Win1-Barbarian_Victory.mp3"
-	weight = 25
-	mood = yes
-	can_be_interrupted = yes
-}
-track55 = {
-	music = "file:/music/Rome_Total_War/Win2-Roman_Victory.mp3"
-	weight = 25
-	mood = yes
-	can_be_interrupted = yes
-}
+#track54 = {
+#	music = "file:/music/Rome_Total_War/Win1-Barbarian_Victory.mp3"
+#	weight = 25
+#	mood = yes
+#	can_be_interrupted = yes
+#}
+#track55 = {
+#	music = "file:/music/Rome_Total_War/Win2-Roman_Victory.mp3"
+#	weight = 25
+#	mood = yes
+#	can_be_interrupted = yes
+#}
 #track56 = {
 #	music = "file:/music/Rome_Total_War/Battle2-Mayhem.mp3"
 #	weight = 25
