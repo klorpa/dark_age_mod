@@ -9,6 +9,10 @@
  VGOINTRO:0 "#T Visigoths#!\nDifficulty: #Y Easy#!\n\nThe Visigoths hold a commanding position on the Iberian penninsula. As long as they can maintain the loyalty of their largely Latin subjects they are well-positioned to strike out in multiple directions."
  BURINTRO:0 "#T Burgundians#!\nDifficulty: #Y Hard#!\n\nThe Burgundian Kingdom is sandwiched between formidable kingdoms to the north, south and west. They are in a tricky position, but a savvy Burgundian player has the potential to unite Gaul and create the Holy Roman Empire."
  GUPINTRO:0 "#T Gupta#!\nDifficulty: #Y Easy#!\n\nThe Gupta Empire is the most powerful force in India. While it has been in decline, a savvy Gupta player can turn things around and reestablish their dominant postion on the subcontinent."
+ PARINTRO:0 "#T Kingdom of Paris#!\nDifficulty: #Y Hard#!\n\nThe Paris Kingdom is sandwiched between formidable kingdoms to the north, south and west. They are in a tricky position, but a savvy Paris player has the potential to unite Gaul and create the Holy Roman Empire."
+ RHEINTRO:0 "#T Kingdom of Rheims#!\nDifficulty: #Y Hard#!\n\nThe Rheims Kingdom is sandwiched between formidable kingdoms to the north, south and west. They are in a tricky position, but a savvy Rheims player has the potential to unite Gaul and create the Holy Roman Empire."
+ SOIINTRO:0 "#T Kingdom of Soissons#!\nDifficulty: #Y Hard#!\n\nThe Soissons Kingdom is sandwiched between formidable kingdoms to the north, south and west. They are in a tricky position, but a savvy Soissons player has the potential to unite Gaul and create the Holy Roman Empire."
+ MUNINTRO:0 "#T Kingdom of Munster#!\nDifficulty: #Y Hard#!\n\nThe Munster Kingdom is sandwiched between formidable kingdoms to the north, east and west. They are in a tricky position, but a savvy Munster player has the potential to unite Ireland and create the Holy Britannian Empire."
  ##### Text Error Fixes #####
  #PANTHEON_SELECT_DEITY_HEADER:1 "Select a [SelectPantheonDeityWindow.GetDeity.GetDescriptiveName] of [SelectPantheonDeityWindow.GetDeityCategory.GetName]"
  SELECT_DEITY_HEADER:0 "Select a Deity"

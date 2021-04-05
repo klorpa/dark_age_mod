@@ -2204,34 +2204,8 @@ JominiMultiplayerLobby = {
 					oversound = "event:/SFX/UI/Generic/sfx_ui_generic_mouse_over"
 				}			
 			}
-			
 				country_flag = {
-				name = "Kingdom of Paris"
-				tooltip = "PARINTRO"
-				onmousehierarchyenter = "[SetHighlightCountry( GetCountry('PAR').Self )]"
-				onmousehierarchyleave = "[ClearHighlightColors]"
-				
-				blockoverride "flag"
-				{
-					texture = "[GetCountry('PAR').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
-					frame = "[GetCountry('PAR').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
-					framesize = { 120 120 }
-				}
-				
-				blockoverride "size"
-				{
-					size = { 42 42 }
-				}
-				
-				blockoverride "click"
-				{
-					onclick = "[SetLobbyCountryTag('PAR')]"
-					clicksound = "event:/SFX/UI/Province/sfx_ui_province_select"
-					oversound = "event:/SFX/UI/Generic/sfx_ui_generic_mouse_over"
-				}			
-			}
-				country_flag = {
-				name = "Kingdom of Soisspms"
+				name = "Kingdom of Soissons"
 				tooltip = "SOIINTRO"
 				onmousehierarchyenter = "[SetHighlightCountry( GetCountry('SOI').Self )]"
 				onmousehierarchyleave = "[ClearHighlightColors]"

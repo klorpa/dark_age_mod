@@ -3021,10 +3021,10 @@ country = {
 		}
 
 		SUS = {
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = anglosaxon
 			religion = germanic_religion
-
+			centralization=50
 			capital = 2020
 
 			own_control_core = 	{
@@ -3034,17 +3034,17 @@ country = {
 
 		
 		LON = {
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = brittania
 			religion = chalcedonian
-			centralization=50
+			
 
 			capital = 2022
 
 			own_control_core = 	{
 				2028 2029 2030 2036 2038 2042 2027 2018 2022 2051
 			}
-		}		
+		}
 
 		EAN = {
 			government = despotic_monarchy
