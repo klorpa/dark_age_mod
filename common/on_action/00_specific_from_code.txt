@@ -2148,9 +2148,15 @@ on_game_initialized = {
 			current_ruler = {
 				add_rival = C:PER.current_ruler
 			}
-			#char:97 = {
-			#	add_friend = char:38
-			#} 
+			current_ruler = {
+				add_friend = char:24
+			}
+			current_ruler = {
+				add_friend = char:3
+			}
+			current_ruler = {
+				add_friend = char:5
+			}
 			rome_legion_setup_effect = yes
 		#	add_opinion = { target = c:MAC modifier = diadochi_rivals }
 		#	add_opinion = { target = c:TRE modifier = diadochi_rivals }
