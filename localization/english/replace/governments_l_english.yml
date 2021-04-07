@@ -124,6 +124,6 @@
  SUCC_ELECTIVE_MONARCHY:0 "Elective Monarchy"
  #Mod
  roman_imperium:0 "Imperium"
- romen_imperium_desc:0 "An Imperator wields absolute power over the state, and usually holds sovereignty over lesser kings and nobles."
- romen_imperium_ruler:0 "Imperator"
- romen_imperium_consort:0 "Consort"
+ roman_imperium_desc:0 "An Imperator wields absolute power over the state, and usually holds sovereignty over lesser kings and nobles."
+ roman_imperium_ruler:0 "Imperator"
+ roman_imperium_consort:0 "Consort"
